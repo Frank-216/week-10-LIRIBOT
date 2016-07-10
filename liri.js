@@ -1,5 +1,9 @@
 // link to keys.js
 var key = require('./keys.js');
+// spodify node 
+var spodify = require('spodify');
+//twitter
+var twitter = require('twitter');
 
 console.log(process.argv);
 
